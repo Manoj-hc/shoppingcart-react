@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shoppingcart-react/static/css/main.808a8821.chunk.css",
+    "main.js": "/shoppingcart-react/static/js/main.6b4ded69.chunk.js",
+    "main.js.map": "/shoppingcart-react/static/js/main.6b4ded69.chunk.js.map",
+    "runtime-main.js": "/shoppingcart-react/static/js/runtime-main.8aa7a781.js",
+    "runtime-main.js.map": "/shoppingcart-react/static/js/runtime-main.8aa7a781.js.map",
+    "static/js/2.d7ec0aa2.chunk.js": "/shoppingcart-react/static/js/2.d7ec0aa2.chunk.js",
+    "static/js/2.d7ec0aa2.chunk.js.map": "/shoppingcart-react/static/js/2.d7ec0aa2.chunk.js.map",
+    "index.html": "/shoppingcart-react/index.html",
+    "precache-manifest.0af7a9a024eeea46ed75bf6172b5e864.js": "/shoppingcart-react/precache-manifest.0af7a9a024eeea46ed75bf6172b5e864.js",
+    "service-worker.js": "/shoppingcart-react/service-worker.js",
+    "static/css/main.808a8821.chunk.css.map": "/shoppingcart-react/static/css/main.808a8821.chunk.css.map",
+    "static/media/spinner.gif": "/shoppingcart-react/static/media/spinner.a45e62da.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa7a781.js",
+    "static/js/2.d7ec0aa2.chunk.js",
+    "static/css/main.808a8821.chunk.css",
+    "static/js/main.6b4ded69.chunk.js"
+  ]
+}
