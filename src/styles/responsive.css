@@ -1,0 +1,48 @@
+@media (max-width: 768px) {
+  .container {
+    max-width: 480px;
+  }
+
+  .cart-item {
+    grid-template-columns: auto;
+  }
+
+  .image-wrapper {
+    position: static;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .offer-text {
+    width: 150px;
+  }
+
+  .actions {
+    display: block;
+  }
+
+  .actions>button {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+
+  .actions>div {
+    margin: 20px auto;
+  }
+
+  .item-image img {
+    max-height: 250px;
+  }
+
+  .item-details {
+    padding: 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .bottom-fixed-bar button {
+    width: 150px;
+  }
+}

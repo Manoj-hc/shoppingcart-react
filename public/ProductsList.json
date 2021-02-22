@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "brand_name": "Parachute",
+    "product_name": "Parachute jumbo pack 100% pure coconut oil (bottle )",
+    "quantity": "600 ml",
+    "price": 107,
+    "mrp": 150,
+    "image_url": "product1.jpg",
+    "offer_text": 15
+  },
+  {
+    "id": 2,
+    "brand_name": "Gemini ",
+    "product_name": "Gemini Refined Sunflower Oil (Pouch)",
+    "quantity": "1L",
+    "price": 109,
+    "mrp": 219,
+    "image_url": "product2.jpg",
+    "offer_text": 30
+  },
+  {
+    "id": 3,
+    "brand_name": "Aashirvaad",
+    "product_name": "Aashirvaad Atta with Multigrains",
+    "quantity": "5Kg",
+    "price": 244,
+    "mrp": 295,
+    "image_url": "product3.jpg",
+    "offer_text": 17
+  },
+  {
+    "id": 4,
+    "brand_name": "Vim",
+    "product_name": "Vim Dishwash Liquid Gel Lemon (bottle)",
+    "quantity": "750ml",
+    "price": 139,
+    "mrp": 155,
+    "image_url": "product4.jpg",
+    "offer_text": 10
+  },
+  {
+    "id": 5,
+    "brand_name": "Dettol ",
+    "product_name": "Dettol Original Germ Protection Handwash Liquid Soap Refill",
+    "quantity": "1500ml",
+    "price": 189,
+    "mrp": 209,
+    "image_url": "product5.jpg",
+    "offer_text": 10
+  },
+  {
+    "id": 6,
+    "brand_name": "Himalaya",
+    "product_name": "Himalaya Herbals Purifying Neem Face Wash",
+    "quantity": "200ml",
+    "price": 152,
+    "mrp": 170,
+    "image_url": "product6.jpg",
+    "offer_text": 11
+  },
+  {
+    "id": 7,
+    "brand_name": "Lifebuoy",
+    "product_name": "Lifebuoy Alcohol Based Hand Sanitizer",
+    "quantity": "500ml",
+    "price": 182,
+    "mrp": 250,
+    "image_url": "product7.jpg",
+    "offer_text": 37
+  },
+  {
+    "id": 8,
+    "brand_name": "Wildcraft",
+    "product_name": "Wildcraft Face Mask, Blue",
+    "quantity": "3 Pieces ",
+    "price": 298,
+    "mrp": 600,
+    "image_url": "product8.jpg",
+    "offer_text": 50
+  },
+  {
+    "id": 9,
+    "brand_name": "Nestle",
+    "product_name": "Nestle Everyday Shahi Ghee",
+    "quantity": "1L",
+    "price": 469,
+    "mrp": 500,
+    "image_url": "product9.jpg",
+    "offer_text": 6
+  },
+  {
+    "id": 10,
+    "brand_name": "Dabur",
+    "product_name": "Dabur Almond Hair Oil with Almonds , Soya Protein",
+    "quantity": "500ml",
+    "price": 227,
+    "mrp": 250,
+    "image_url": "product10.jpg",
+    "offer_text": 9
+  },
+  {
+    "id": 11,
+    "brand_name": "Natureland",
+    "product_name": "Natureland Organics Maize Flour",
+    "quantity": "750Gm",
+    "price": 90,
+    "mrp": 100,
+    "image_url": "product11.jpg",
+    "offer_text": 10
+  }
+]
